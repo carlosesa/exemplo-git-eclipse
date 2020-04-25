@@ -20,7 +20,8 @@ public class ExemploGit {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("Ol·, Git!!!");
+		System.out.println("Ol√°, Git!!!");
+		// Alterado no github.
 	}
 
 }
